@@ -1,6 +1,6 @@
 # Nba Legends App
 <h1>Nba Legends</h1>
-## Description
+
 Project aims to create a Nba Legends App.
 
 ## Project Skeleton
