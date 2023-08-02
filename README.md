@@ -42,4 +42,4 @@ NBA Legends
 
 ## DEMO
 
-[title](https://nba-biglegends-app.netlify.app/)
+[outcome](https://nba-biglegends-app.netlify.app/)
